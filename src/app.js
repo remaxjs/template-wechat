@@ -1,5 +1,5 @@
 import './app.css';
 
-class App {}
+const App = props => props.children;
 
 export default App;
